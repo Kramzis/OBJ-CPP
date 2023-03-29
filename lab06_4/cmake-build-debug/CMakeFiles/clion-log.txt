@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\ASUS\CLionProjects\lab06_4 -B C:\Users\ASUS\CLionProjects\lab06_4\cmake-build-debug
+-- start running cmake...
+-- Found Boost: C:/boost/boost_1_80_0 (found version "1.80.0")  
+-- Boost_INCLUDE_DIRS: C:/boost/boost_1_80_0
+-- Boost_LIBRARIES: 
+-- Boost_VERSION: 1.80.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/ASUS/CLionProjects/lab06_4/cmake-build-debug
